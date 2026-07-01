@@ -38,44 +38,59 @@
 </div>
 
 ###
-
-# Hi there, I'm Anmol singh! 👋
-
-Welcome to my GitHub profile! I am a **3rd-Year Computer Science & Engineering student** who loves exploring how software works under the hood. I'm passionate about building logic, optimizing algorithms, and turning ideas into clean code.
+### 👨‍💻 3rd-Year CSE Student | Aspiring Python Developer & Tech Enthusiast
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently refining my skills in core computer science concepts.
-- 📚 Curious about low-level systems, operating system mechanics, and architecture.
-- ✍️ I value strong technical communication and well-documented code.
-- ⚡ Fun fact: I enjoy diving deep into how systems handle multitasking and efficiency.
+### 🌌 System Overview
+
+I am an aspiring **Computer Science & Engineering student** focused on architecting clean logic, mastering software ecosystems, and turning ideas into execution. Right now, I'm transforming my fundamental skill sets into production-ready expertise.
+
+- ⚙️ **Current Focus:** Elevating my Python capabilities and diving deep into data structures.
+- 🚀 **Next Milestone:** Unlocking full-stack capabilities through JavaScript development.
+- 💬 **Ask me about:** C++, basic Python automation, or core academic computer science theories.
+- ⚡ **Fun Fact:** I believe clean code is just poetry that runs!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📁 Featured Projects
 
-*   **Languages:** 
-    *   `C++` (Object-Oriented Programming, Data Structures & Algorithms)
-    *   `Python` (Scripting, Automation, and Problem Solving)
-*   **Core Concepts:** Operating Systems, Algorithm Design, Digital Electronics
-*   **Tools:** Git, GitHub, VS Code, Linux
-
----
-
-### 📊 GitHub Stats
-
-[![Anmol singh GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#### 🤖 AI Text Chatbot 
+*A smart conversational agent engineered using Python backend logic.*
+- Built structured text-processing pipelines to handle user queries.
+- Focused on modular code design for smooth future integrations.
+- [🔗 View Project Repository](https://github.com/krish-dev-ui) *(Update with your actual project link!)*
 
 ---
 
-### 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+### 🛠️ Ecosystem Grid
 
+| ⚙️ Current Core Stack | 🎯 Active Integration Targets |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> | |
+| <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> | |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | |
+
+---
+
+### 🤝 Secure a Connection
+
+Let's connect and build something awesome together! 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/krish-sharma-43a77141a" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:krishsharma41041@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 *"First, solve the problem. Then, write the code."* 💻
-
 <!--
 **ANMOL-SINGH1212/ANMOL-SINGH1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
