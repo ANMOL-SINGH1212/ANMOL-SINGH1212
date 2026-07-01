@@ -59,7 +59,7 @@ I am an aspiring **Computer Science & Engineering student** focused on architect
 *A smart conversational agent engineered using Python backend logic.*
 - Built structured text-processing pipelines to handle user queries.
 - Focused on modular code design for smooth future integrations.
-- [🔗 View Project Repository](https://github.com/krish-dev-ui) *(Update with your actual project link!)*
+- [🔗 View Project Repository](ANMOL-SINGH1212) *(Update with your actual project link!)*
 
 ---
 
